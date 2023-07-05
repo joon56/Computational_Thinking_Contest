@@ -1,6 +1,7 @@
 # Computational_Thinking_Contest
 2022 1st semester Computational Thinking Contest
 
+대회 기간 : 2022년 4월 
 대상 : 연세대학교 미래캠퍼스 '컴퓨팅 사고' 과목 이수 중인 재학생
 부문 : 아이디어 부문 / 코딩 부문
 
